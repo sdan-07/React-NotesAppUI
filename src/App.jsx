@@ -31,6 +31,7 @@ const App = () => {
             className="py-5 rounded-xl"
             type="text"
             placeholder="Enter Title here..."
+            required
             value={title}
             onChange={(e) => {
               setTitle(e.target.value);
@@ -41,14 +42,15 @@ const App = () => {
             className="py-5 md:py-12 rounded-xl"
             type="text"
             placeholder="Enter Details here..."
+            required
             value={desc}
             onChange={(e) => {
               setDesc(e.target.value);
             }}
           />
-          <button className="px-3 py-3 md:py-5 bg-black text-lg active:scale-95 rounded-xl border-2 my-9 md:my-12 w-full">
-            {" "}
-            Submit{" "}
+          <button className="px-3 py-3 md:py-5 bg-white text-black text-sm md:text-lg active:scale-95 rounded-xl border-2 my-9 md:my-12 w-full">
+            
+            Submit
           </button>
         </form>
       </div>
