@@ -1,4 +1,4 @@
-# 📝 Notes App (React)
+# 📝 Notes App 
 
 A simple and responsive **Notes App UI** built using **React.js**.  
 This project focuses on core React concepts like **useState** and **props**, styled with **Tailwind CSS**, and deployed live on **Vercel**.
@@ -7,7 +7,7 @@ This project focuses on core React concepts like **useState** and **props**, sty
 
 ## 🚀 Live Demo
 
-🔗 **Live Site:** https://your-vercel-link.vercel.app
+🔗 **Live Site:** https://react-notes-app-ui.vercel.app/
 
 ---
 
@@ -46,14 +46,6 @@ project/
 ├── package.json
 └── README.md
 ```
-
----
-
-## ▶️ Live Site
-
-The project is live and deployed here:
-
-👉 [**https://react-cards-ui-chi.vercel.app/**](https://react-cards-ui-chi.vercel.app/)
 
 ---
 
