@@ -37,7 +37,6 @@ This project focuses on core React concepts like **useState** and **props**, sty
 project/
 ├── src/
 │   ├── components/
-│   │   ├── CreateNotes.jsx
 │   │   └── DisplayNotes.jsx
 │   ├── App.jsx
 │   ├── main.jsx
@@ -55,7 +54,6 @@ project/
 - Passing and handling data with **props**
 - Creating reusable React components
 - Building responsive layouts with **Tailwind CSS**
-- Deploying a React app on **Vercel**
 
 ---
 
